@@ -10,7 +10,7 @@
 ---
 
 ## 💫 About Me
-Hire me to unlock 🚧
+<h3 align="center" style="color:#f73062;">🚧 Hire me to unlock 🚀</h3>
 
 ---
 
@@ -52,8 +52,8 @@ Hire me to unlock 🚧
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="mailto:contact.me.dothehung@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.me.dothehung@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br />
   <a href="https://facebook.com/dothehung568" target="_blank">
