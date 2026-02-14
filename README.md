@@ -37,6 +37,9 @@ Hire me to unlock 🚧
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doHung568&theme=redical" />
+</p>
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=doHung568&theme=radical&hide_border=true"
     width="100%"
